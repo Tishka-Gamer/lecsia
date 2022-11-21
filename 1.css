@@ -1,9 +1,11 @@
 div{
     background-color: aliceblue;
-}
+
 main{
     background-color: aqua;
 }
 p {
     text-align: center;
+    text-align: end;
+    color: blue;
 }
